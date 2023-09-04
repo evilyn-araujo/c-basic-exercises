@@ -12,5 +12,8 @@ int main()
     x2 = 3;
     y2 = 2;
 
-    x2 *= y2;
+    x2 *= y2; // equivale a x2 = x2 * y2
 }
+
+// x++ equivale a x = x + 1
+// y = x++ equivale a y = x e depois x = x +1
